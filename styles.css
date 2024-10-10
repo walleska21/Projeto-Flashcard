@@ -63,3 +63,22 @@ footer p{
     font-size: 0.6rem;
     margin-top: 0.5rem;
 }
+
+.cartao_conteudo_resposta {
+    transform: rotatey(180deg);
+}
+
+footer {
+    background-color: black;
+    color: white;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    height: 2rem;
+}
+
+footer p {
+    text-align: center;
+    font-size: 0.6rem;
+    margin-top: 0.5rem;
+}
